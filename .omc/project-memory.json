@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1773555775460,
+  "projectRoot": "/Users/iznogoud/Desktop/Projects-AI/ai-coding-project-boilerplates",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "AGENTS.md",
+      "accessCount": 2,
+      "lastAccessed": 1773556406773,
+      "type": "file"
+    },
+    {
+      "path": "prompts/greenfield-agents-setup.md",
+      "accessCount": 1,
+      "lastAccessed": 1773593601846,
+      "type": "file"
+    },
+    {
+      "path": "prompts/brownfield-agents-setup.md",
+      "accessCount": 1,
+      "lastAccessed": 1773593626410,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
